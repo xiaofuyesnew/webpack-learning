@@ -1,0 +1,23 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "learn how to use webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaofuyesnew/webpack-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaofuyesnew/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/xiaofuyesnew/webpack-learning#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
